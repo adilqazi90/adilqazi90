@@ -6,6 +6,8 @@
 
 🚀 Currently learning **C++, Python, JavaScript, and Modern Web Technologies**
 
+⭐ Still learning. Still building. Still improving.
+
 
 
 ## 🌐 Connect With Me
@@ -52,12 +54,6 @@ So I'm using this space to document my progress — from writing my first progra
 ![](https://github-readme-stats.vercel.app/api?username=adilqazi90\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adilqazi90\&theme=tokyonight\&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adilqazi90\&theme=tokyonight\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=adilqazi90\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ---
 
