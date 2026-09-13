@@ -37,6 +37,15 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
 
 ---
+### 📈 My GitHub Journey
+
+I believe GitHub shouldn't only show the things you already know.
+
+It should also show how you got there.
+
+So I'm using this space to document my progress — from writing my first programs to eventually building projects I'm genuinely proud of.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -54,7 +63,7 @@
 
 ## ✍️ Developer Quote
 
-> "The best way to predict the future is to create it."
+> "It always seems impossible until it's done."
 
 <!--
 **adilqazi90/adilqazi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
